@@ -1,0 +1,23 @@
+background-color: rgba(156, 157, 150, 245);
+selection-color: rgb(255, 0, 0);
+color: rgb(0, 0, 0);
+selection-background-color: rgb(255, 255, 191);
+border-color: rgb(0, 0, 0);
+border-top-color: rgb(0, 0, 0);
+border-right-color: rgb(0, 0, 0);
+border-bottom-color: rgb(0, 0, 0);
+border-left-color: rgb(0, 0, 0);
+gridline-color: rgb(85, 170, 0);
+
+selection-color: rgb(231, 255, 75);
+gridline-color: rgb(43, 117, 255);
+border-color: rgb(170, 85, 0);
+background-color: qlineargradient(spread:pad, x1:0.488, y1:0, x2:0.497, y2:1,
+stop:0 rgba(210, 216, 223, 255), 
+stop:1 rgba(146, 165, 186, 255));
+border-bottom:1px solid rgb(79,101,125);
+font: bold
+
+@string/app_name
+
+-- %%INSERT_APP_LIB_NAME%% --
